@@ -34,5 +34,5 @@ public void setXspeed (int a){
      public double getDirection() {
        return myPointDirection;
      }
-}
+} 
   
